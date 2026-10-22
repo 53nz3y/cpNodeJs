@@ -1,0 +1,15 @@
+{
+  "name": "initnodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello-world.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "dependencies": {
+    "generate-password": "^1.7.1",
+    "nodemailer": "^10.2.1"
+  }
+}
